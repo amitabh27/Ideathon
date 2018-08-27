@@ -41,7 +41,7 @@ app.get('/customsearchengine/:query',function(req,res){
 		
 		var str,find;
 		
-		request('https://www.googleapis.com/customsearch/v1?key=AIzaSyAxgHvxEdWfffLg_EMCp-nHFpjy2KZokzU&cx=007770797307440713814:8ki6p56szfc&q='+'buy '+query+' online', function (error, response, body) {
+		request('https://www.googleapis.com/customsearch/v1?key=API_KEY&cx=Engine_ID&q='+'buy '+query+' online', function (error, response, body) {
 			if (!error && response.statusCode == 200) 
 			{
 			var o=JSON.parse(body);
