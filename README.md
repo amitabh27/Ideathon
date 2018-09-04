@@ -36,12 +36,14 @@ o	Content Based Filtering: Based on what you read (LDA, TF-IDF, NER)<br>
 o	Collaborative Filtering: Based on what people like you read (Spectral)<br>
 o	Collaborative Filtering: Based on the region you belong to (K-prototypes)<br>
 
-Note: <hr><br>
+Note: <hr>
 •	Data for Machine Learning models, we plan to have synthetic data for presenting our prototype in Hackathon.   <br> 
 •	Programming Language: Python<br>
 •	NLP and ML Models from built-in Libraries<br>
 
-![Alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s1.jpg?raw=true "Title")
+<h4>Architecture of Recommendation Engine</h4><br>
+![Alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s2.jpg?raw=true "Title")<br>
+![Alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s1.jpg?raw=true "Title")<br>
 
 
 
@@ -53,7 +55,11 @@ Note: <hr><br>
 •	We use AWS services like Kinesis, Athena, Amazon Translate and Lambda Functions to build a Real Time analytical dashboard which would analyse tweets about the campaigns at run time.<br>
   
 	Youtube:<br>
-•	Using Youtube Analytics APIs to extract features like likes, comments, views, portion of  video clip people are watching etc
+•	Using Youtube Analytics APIs to extract features like likes, comments, views, portion of  video clip people are watching etc<br>
+
+<h4>Architecture of integrated social analytics dashboard</h4><br>
+![Alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s4.jpg?raw=true "Title")<br>
+![Alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s5.jpg?raw=true "Title")<br>
 
 
 <h4>Module 3: Central Hub for Unilever Products</h4><br>
@@ -61,6 +67,9 @@ Note: <hr><br>
 •	The architecture for this module is as follows:<br>
 	Come up with an auto-complete search field for facilitating easy search of products.<br>
 	Suppose the user types in “Surf Excel” then we make use of Google Search API in background to get search results based on keywords like “Buy Surf Excel online” and filter out the results wherein the link of Json Object has domains like Flipkart/Amazon/Snapdeal and provide those results with links to users. So that they can go on their trusted e-commerce website ang buy it.<br>
+
+<h4>Architecture of E-commerce integration wizard</h4><br>
+![Alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s3.jpg?raw=true "Title")<br>
 
 <h4>Technologies used:</h4><hr><br>
 	Environment: Node JS REST Server for Module 3 and Flask App based REST Server in python for Module 1.<br>
