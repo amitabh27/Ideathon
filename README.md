@@ -41,6 +41,10 @@ Note: <hr><br>
 •	Programming Language: Python<br>
 •	NLP and ML Models from built-in Libraries<br>
 
+![Alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s1.jpg?raw=true "Title")
+
+
+
 <h4>Module 2: Analytical Dashboard for Organization</h4><br>
 •	To monitor and analyse how well your social campaigns are doing is very important for any organization.<br>
 •	We plan to exploit the platforms like twitter and youtube mainly.<br>
