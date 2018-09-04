@@ -42,7 +42,7 @@ Note: <hr>
 •	NLP and ML Models from built-in Libraries<br>
 
 <h4>Architecture of Recommendation Engine</h4>
-![Alt text](/UI/s2.jpg)
+![Alt text](/blob/master/UI/s2.jpg)
 <br>
 
 
