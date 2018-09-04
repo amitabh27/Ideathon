@@ -58,7 +58,7 @@ Note: <hr><br>
 	Come up with an auto-complete search field for facilitating easy search of products.<br>
 	Suppose the user types in “Surf Excel” then we make use of Google Search API in background to get search results based on keywords like “Buy Surf Excel online” and filter out the results wherein the link of Json Object has domains like Flipkart/Amazon/Snapdeal and provide those results with links to users. So that they can go on their trusted e-commerce website ang buy it.<br>
 
-•	<h4>Technologies used:</h4><hr><br>
+<h4>Technologies used:</h4><hr><br>
 	Environment: Node JS REST Server for Module 3 and Flask App based REST Server in python for Module 1.<br>
 	ML and NLP Models from python<br>
 	Google Search APIs,Twitter APIs,Youtube APIs,Facebook Insight APIs.<br>
