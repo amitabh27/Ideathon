@@ -1,8 +1,5 @@
-# Ideathon
+# MMA's Ideathon
 
-
-
-<h3>MMA’s Ideathon</h3><br><hr>
 Proposed Solution for Cleanipedia:<br>
 
 
