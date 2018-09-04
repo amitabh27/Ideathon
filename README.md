@@ -42,7 +42,7 @@ Note: <hr>
 •	NLP and ML Models from built-in Libraries<br>
 
 <h4>Architecture of Recommendation Engine</h4>
-![Alt text](/blob/master/UI/s2.jpg)
+![alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s1.jpg)
 <br>
 
 
