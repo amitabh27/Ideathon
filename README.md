@@ -60,8 +60,8 @@ Note: <hr>
 •	Using Youtube Analytics APIs to extract features like likes, comments, views, portion of  video clip people are watching etc<br>
 
 <h4>Architecture of integrated social analytics dashboard</h4>
-![Alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s4.jpg?raw=true "Title")<br>
-![Alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s5.jpg?raw=true "Title")<br>
+![Alt text](/UI/s4.jpg)<br>
+![Alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s5.jpg)<br>
 
 
 <h4>Module 3: Central Hub for Unilever Products</h4><br>
