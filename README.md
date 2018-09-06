@@ -41,11 +41,6 @@ Note: <hr>
 •	Programming Language: Python<br>
 •	NLP and ML Models from built-in Libraries<br>
 
-<h5>Architecture of Recommendation engine</h5><br>
-![Contribution guidelines for this project](https://github.com/amitabh27/Ideathon/blob/master/UI/s2.jpg)
-
-
-
 
 <h4>Module 2: Analytical Dashboard for Organization</h4><br>
 •	To monitor and analyse how well your social campaigns are doing is very important for any organization.<br>
