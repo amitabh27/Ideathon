@@ -42,10 +42,10 @@ Note: <hr>
 •	NLP and ML Models from built-in Libraries<br>
 
 <h4>Architecture of Recommendation engine</h4><br>
-![alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s2.jpg)
+![Architecture of Recommender](https://github.com/amitabh27/Ideathon/blob/master/UI/s2.jpg)
 
 <h5>Snapshot</h5>
-![alt text](https://github.com/amitabh27/Ideathon/blob/master/UI/s1.jpg)
+![Screenshot of UI powered by Recommender](https://github.com/amitabh27/Ideathon/blob/master/UI/s1.jpg)
 
 
 <h4>Module 2: Analytical Dashboard for Organization</h4><br>
