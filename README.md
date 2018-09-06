@@ -34,7 +34,7 @@ We propose to build a platform for Hindustan Unilever which could serve as:<br>
 •	<b>The Recommendation Engine basically churns out articles in following ways:</b><br>
 o	Content Based Filtering: Based on what you read (LDA, TF-IDF, NER)<br>
 o	Collaborative Filtering: Based on what people like you read (Spectral)<br>
-o	Collaborative Filtering: Based on the region you belong to (K-prototypes)<br>
+o	Collaborative Filtering: Based on the personal and demographics data of user(K-prototypes)<br>
 
 Note: <hr>
 •	Data for Machine Learning models, we plan to have synthetic data for presenting our prototype in Hackathon.   <br> 
