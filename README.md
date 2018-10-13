@@ -68,9 +68,14 @@ Note: <hr>
 
 
 
+<h4>Architecture of Recommendation Engine</h4><hr>
 ![ibm-ui-DB0](https://github.com/amitabh27/Ideathon/blob/master/UI/s1.jpg)<br>
  ![ibm-ui-DB1](https://github.com/amitabh27/Ideathon/blob/master/UI/s2.jpg)<br>
+ 
+ <h4>Architecture of E-commerce integration wizard</h4><hr>
  ![ibm-ui-DB2](https://github.com/amitabh27/Ideathon/blob/master/UI/s3.jpg)<br>
+ 
+ <h4>Architecture of Analytical Dashboard for HUL</h4><hr>
  ![ibm-ui-DB3](https://github.com/amitabh27/Ideathon/blob/master/UI/s4.jpg)<br>
    ![ibm-ui-DB4](https://github.com/amitabh27/Ideathon/blob/master/UI/s5.jpg)<br>  
 
