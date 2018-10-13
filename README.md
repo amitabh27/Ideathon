@@ -65,6 +65,13 @@ Note: <hr>
 	Environment: Node JS REST Server for Module 3 and Flask App based REST Server in python for Module 1.<br>
 	ML and NLP Models from python<br>
 	Google Search APIs,Twitter APIs,Youtube APIs,Facebook Insight APIs.<br>
-     
+
+
+
+![ibm-ui-DB0](https://github.com/amitabh27/Ideathon/blob/master/UI/s1.jpg)<br>
+ ![ibm-ui-DB1](https://github.com/amitabh27/Ideathon/blob/master/UI/s2.jpg)<br>
+ ![ibm-ui-DB2](https://github.com/amitabh27/Ideathon/blob/master/UI/s3.jpg)<br>
+ ![ibm-ui-DB3](https://github.com/amitabh27/Ideathon/blob/master/UI/s4.jpg)<br>
+   ![ibm-ui-DB4](https://github.com/amitabh27/Ideathon/blob/master/UI/s5.jpg)<br>  
 
 
